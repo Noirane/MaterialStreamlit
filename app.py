@@ -5,7 +5,7 @@ import pandas as pd
 from graficos import grafico 
 
 #Cabeçalho 
-st.markdown("# Pessoas com celular Brasil 2005")
+st.markdown("# Trabalho")
 
 #Mapa
 with open('paises.json') as f:
